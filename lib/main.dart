@@ -28,6 +28,7 @@ class _MyLoginState extends State<MyLogin> {
                 Colors.purple[900],
                 Colors.purple[800],
                 Colors.purple[300],
+                    Colors.red,
               ]),
         ),
         child: Column(
